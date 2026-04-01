@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>With Love Photography · Premium Wedding Photography Chennai</title>
-  <meta name="description" content="With Love Photography — Premium wedding and event photography in Chennai. Capturing timeless Tamil Nadu wedding stories with artistry and heart." />
+  <title>CLICK CLICK photography · Premium Wedding Photography Chennai</title>
+  <meta name="description" content="CLICK CLICK photography — Premium wedding and event photography in Chennai. Capturing timeless Tamil Nadu wedding stories with artistry and heart." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet" />
@@ -482,7 +482,7 @@
     <div class="sp-loader-half sp-loader-l"></div>
     <div class="sp-loader-half sp-loader-r"></div>
     <div class="sp-loader-content">
-      <div class="sp-loader-brand">With Love Photography</div>
+      <div class="sp-loader-brand">CLICK CLICK photography</div>
       <div class="sp-loader-sub">Premium Wedding Photography · Chennai</div>
       <div class="sp-loader-progress"><div class="sp-loader-bar"></div></div>
     </div>
@@ -492,7 +492,7 @@
   <nav class="navbar transparent" id="navbar">
     <div class="nav-inner">
       <a href="index.php" class="nav-logo">
-        <span class="logo-main">With Love Photography</span>
+        <span class="logo-main">CLICK CLICK photography</span>
         <span class="logo-sub">Chennai</span>
       </a>
       <div class="nav-links">
@@ -732,7 +732,7 @@
             <div class="divider-gem"></div>
           </div>
           <p>A pre-wedding shoot isn't just photos — it's the prologue to your forever. It's you, together, before the world watches. It's nervous laughter, stolen glances, and the quiet magic of two people deeply in love.</p>
-          <p style="margin-top:1rem;">We are With Love Photography — Chennai's storytellers for young couples who believe their love is cinematic, their moments are worth preserving, and their journey together is the greatest story ever told.</p>
+          <p style="margin-top:1rem;">We are CLICK CLICK photography — Chennai's storytellers for young couples who believe their love is cinematic, their moments are worth preserving, and their journey together is the greatest story ever told.</p>
           <div class="traits-list">
             <div class="trait-item">
               <div class="trait-dot"></div>
@@ -893,7 +893,7 @@
             <span class="grev-stars-row">★★★★★</span>
             <span class="grev-card-date">7 months ago</span>
           </div>
-          <p class="grev-card-text">Amazing experience at With Love Photography, Chennai! The team is so humble, creative, and made our kid's birthday shoot truly special. Beautiful photos and great vibes!</p>
+          <p class="grev-card-text">Amazing experience at CLICK CLICK photography, Chennai! The team is so humble, creative, and made our kid's birthday shoot truly special. Beautiful photos and great vibes!</p>
         </div>
 
         <!-- Card 3 -->
@@ -915,7 +915,7 @@
             <span class="grev-stars-row">★★★★★</span>
             <span class="grev-card-date">a year ago</span>
           </div>
-          <p class="grev-card-text">Mr. Kumar is very professional. The studio has lots of theme setups ideal for kids photoshoots. With Love Photography is definitely budget friendly. My son had a great time during the shoot — he felt comfortable and relaxed.</p>
+          <p class="grev-card-text">Mr. Kumar is very professional. The studio has lots of theme setups ideal for kids photoshoots. CLICK CLICK photography is definitely budget friendly. My son had a great time during the shoot — he felt comfortable and relaxed.</p>
         </div>
 
         <!-- Card 4 -->
@@ -937,7 +937,7 @@
             <span class="grev-stars-row">★★★★★</span>
             <span class="grev-card-date">2 years ago</span>
           </div>
-          <p class="grev-card-text">I recently had my passport photo taken at With Love Photography, and it was a fantastic experience! The photographer was highly professional, and the service was excellent. Great value for money. I'm completely satisfied and would definitely recommend With Love Photography to anyone looking for photography services.</p>
+          <p class="grev-card-text">I recently had my passport photo taken at CLICK CLICK photography, and it was a fantastic experience! The photographer was highly professional, and the service was excellent. Great value for money. I'm completely satisfied and would definitely recommend CLICK CLICK photography to anyone looking for photography services.</p>
         </div>
 
         <!-- Card 5 -->
@@ -959,7 +959,7 @@
             <span class="grev-stars-row">★★★★★</span>
             <span class="grev-card-date">8 months ago</span>
           </div>
-          <p class="grev-card-text">Visited With Love Photography for my baby's 1st birthday shoot. Very satisfied with the work — the photographer was very professional and friendly. Price is very affordable. Overall service is very nice and I am satisfied.</p>
+          <p class="grev-card-text">Visited CLICK CLICK photography for my baby's 1st birthday shoot. Very satisfied with the work — the photographer was very professional and friendly. Price is very affordable. Overall service is very nice and I am satisfied.</p>
         </div>
 
         <!-- Card 6 -->
@@ -1048,7 +1048,7 @@
       <h2 data-reveal="up">Your Pre-Wedding Story Awaits</h2>
       <p data-reveal="up" data-delay="100">Dates fill up fast — don't let your love story wait. Let's create something beautiful together, just for the two of you.</p>
       <div class="cta-strip-btns" data-reveal="up" data-delay="200">
-        <a href="https://wa.me/916380008516" class="btn-whatsapp">
+        <a href="https://wa.me/917010309601" class="btn-whatsapp">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.123.554 4.118 1.524 5.847L0 24l6.335-1.524A11.938 11.938 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.79 9.79 0 01-4.988-1.362l-.358-.213-3.724.895.924-3.617-.234-.371A9.79 9.79 0 012.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12 17.42 21.818 12 21.818z"/></svg>
           WhatsApp Us
         </a>
@@ -1062,7 +1062,7 @@
     <div class="container">
       <div class="footer-grid">
         <div class="footer-brand">
-          <span class="logo-main" style="font-family:'Cormorant Garamond',serif;font-style:italic;color:var(--gold-light);font-size:1.7rem;display:block;margin-bottom:.3rem;">With Love Photography</span>
+          <span class="logo-main" style="font-family:'Cormorant Garamond',serif;font-style:italic;color:var(--gold-light);font-size:1.7rem;display:block;margin-bottom:.3rem;">CLICK CLICK photography</span>
           <span style="font-family:'Lato',sans-serif;font-size:.65rem;letter-spacing:.22em;text-transform:uppercase;color:rgba(255,245,230,.45);display:block;margin-bottom:1.2rem;">Chennai</span>
           <p>Capturing the timeless beauty of Tamil Nadu weddings with artistry, warmth, and an unwavering eye for moments that matter most.</p>
         </div>
@@ -1092,7 +1092,7 @@
         <div class="footer-col">
           <h4>Contact Us</h4>
           <div class="footer-contact-item">
-            <span class="icon">📞</span><span>+91 63800 08516</span>
+            <span class="icon">📞</span><span>+91 70103 09601</span>
           </div>
           <div class="footer-contact-item">
             <span class="icon">✉️</span><span>withlovephotography@gmail.com</span>
@@ -1106,7 +1106,7 @@
         </div>
       </div>
       <div class="footer-bottom">
-        <p>© 2025 <span>With Love Photography</span>. All rights reserved. Crafted with <span>♥</span> in Chennai.</p>
+        <p>© 2025 <span>CLICK CLICK photography</span>. All rights reserved. Crafted with <span>♥</span> in Chennai.</p>
       </div>
     </div>
   </footer>

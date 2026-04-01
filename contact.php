@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Book Your Date · With Love Photography Chennai</title>
-  <meta name="description" content="Book With Love Photography for your pre-wedding shoot or Tamil Nadu wedding. Reach out today — dates fill fast." />
+  <title>Book Your Date · CLICK CLICK photography Chennai</title>
+  <meta name="description" content="Book CLICK CLICK photography for your pre-wedding shoot or Tamil Nadu wedding. Reach out today — dates fill fast." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet" />
@@ -540,7 +540,7 @@
     <div class="sp-loader-half sp-loader-l"></div>
     <div class="sp-loader-half sp-loader-r"></div>
     <div class="sp-loader-content">
-      <div class="sp-loader-brand">With Love Photography</div>
+      <div class="sp-loader-brand">CLICK CLICK photography</div>
       <div class="sp-loader-sub">Premium Wedding Photography · Chennai</div>
       <div class="sp-loader-progress"><div class="sp-loader-bar"></div></div>
     </div>
@@ -550,7 +550,7 @@
   <nav class="navbar scrolled" id="navbar">
     <div class="nav-inner">
       <a href="index.php" class="nav-logo">
-        <span class="logo-main">With Love Photography</span>
+        <span class="logo-main">CLICK CLICK photography</span>
         <span class="logo-sub">Chennai</span>
       </a>
       <div class="nav-links">
@@ -623,7 +623,7 @@
               </div>
               <div class="info-text">
                 <strong>Call Us</strong>
-                <span><a href="tel:+916380008516">+91 63800 08516</a></span>
+                <span><a href="tel:+917010309601">+91 70103 09601</a></span>
               </div>
             </div>
             <div class="info-item">
@@ -664,7 +664,7 @@
             </div>
           </div>
 
-          <a href="https://wa.me/916380008516?text=Hi%20With%20Love%20Photography!%20I'd%20like%20to%20enquire%20about%20a%20pre-wedding%20shoot." class="whatsapp-btn" target="_blank" rel="noopener">
+          <a href="https://wa.me/917010309601?text=Hi%20With%20Love%20Photography!%20I'd%20like%20to%20enquire%20about%20a%20pre-wedding%20shoot." class="whatsapp-btn" target="_blank" rel="noopener">
             <svg class="whatsapp-icon" viewBox="0 0 24 24" fill="currentColor">
               <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/>
               <path d="M12 0C5.373 0 0 5.373 0 12c0 2.123.554 4.118 1.524 5.847L0 24l6.335-1.524A11.938 11.938 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.79 9.79 0 01-4.988-1.362l-.358-.213-3.724.895.924-3.617-.234-.371A9.79 9.79 0 012.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12 17.42 21.818 12 21.818z"/>
@@ -706,7 +706,7 @@
             <div class="form-row">
               <div class="form-group">
                 <label for="phone">Phone Number <span class="required">*</span></label>
-                <input type="tel" id="phone" name="phone" placeholder="+91 63800 08516" required />
+                <input type="tel" id="phone" name="phone" placeholder="+91 70103 09601" required />
               </div>
               <div class="form-group">
                 <label for="email">Email Address <span class="required">*</span></label>
@@ -753,7 +753,7 @@
                 <div class="btn-spinner"></div>
                 <span class="btn-text">Send Enquiry →</span>
               </button>
-              <p class="form-note">By submitting, you agree to be contacted by With Love Photography. We never share your details with third parties.</p>
+              <p class="form-note">By submitting, you agree to be contacted by CLICK CLICK photography. We never share your details with third parties.</p>
             </div>
           </form>
 
@@ -789,7 +789,7 @@
     <div class="container">
       <div class="footer-grid">
         <div class="footer-brand">
-          <span class="logo-main" style="font-family:'Cormorant Garamond',serif;font-style:italic;color:var(--gold-light);font-size:1.6rem;display:block;margin-bottom:.3rem;">With Love Photography</span>
+          <span class="logo-main" style="font-family:'Cormorant Garamond',serif;font-style:italic;color:var(--gold-light);font-size:1.6rem;display:block;margin-bottom:.3rem;">CLICK CLICK photography</span>
           <span style="font-size:.68rem;letter-spacing:.2em;text-transform:uppercase;color:rgba(255,245,230,.5);display:block;margin-bottom:1rem;">Chennai</span>
           <p>Telling the love stories of young couples across Chennai and Tamil Nadu — one beautiful frame at a time.</p>
         </div>
@@ -818,14 +818,14 @@
         </div>
         <div class="footer-col">
           <h4>Contact Us</h4>
-          <div class="footer-contact-item"><span class="icon">📞</span><span>+91 63800 08516</span></div>
+          <div class="footer-contact-item"><span class="icon">📞</span><span>+91 70103 09601</span></div>
           <div class="footer-contact-item"><span class="icon">✉️</span><span>withlovephotography@gmail.com</span></div>
           <div class="footer-contact-item"><span class="icon">📍</span><span>Anna Nagar, Chennai — 600 040</span></div>
           <div class="footer-contact-item"><span class="icon">🕐</span><span>Mon–Sat: 10AM – 7PM</span></div>
         </div>
       </div>
       <div class="footer-bottom">
-        <p>© 2025 <span>With Love Photography</span>. All rights reserved. Crafted with <span>♥</span> in Chennai.</p>
+        <p>© 2025 <span>CLICK CLICK photography</span>. All rights reserved. Crafted with <span>♥</span> in Chennai.</p>
       </div>
     </div>
   </footer>

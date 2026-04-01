@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
 
 // ── CONFIG ────────────────────────────────────────────────────────────
 $to_email  = 'withlovephotography@gmail.com';       // Studio inbox
-$from_name = 'With Love Photography';
+$from_name = 'CLICK CLICK photography';
 $smtp_host = 'smtp.gmail.com';
 $smtp_user = 'jpmanibharathi@gmail.com';
 $smtp_pass = 'mvlt rpxd rwjj lvje';
@@ -140,7 +140,7 @@ $enquiry_html = <<<HTML
     <div style="background:linear-gradient(135deg,#8B1C1C 0%,#5E1212 100%);padding:32px;text-align:center;">
       <p style="margin:0 0 4px;font-size:11px;letter-spacing:.25em;text-transform:uppercase;color:rgba(255,245,230,.55);">New Booking Enquiry</p>
       <h1 style="margin:0;color:#fff;font-size:22px;font-weight:700;">💍 {$bride_name} &amp; {$groom_name}</h1>
-      <p style="margin:8px 0 0;font-size:13px;color:rgba(255,245,230,.65);">Received via withlovephotography · {$formatted_date}</p>
+      <p style="margin:8px 0 0;font-size:13px;color:rgba(255,245,230,.65);">Received via clickclickphotography · {$formatted_date}</p>
     </div>
     <div style="background:#fff8f0;padding:32px;">
       <table style="width:100%;border-collapse:collapse;">
@@ -156,13 +156,13 @@ $enquiry_html = <<<HTML
     </div>
     <div style="background:#f0e0cc;padding:18px 32px;text-align:center;">
       <p style="margin:0;font-size:12px;color:#8A6464;">Reply to this email to contact <strong style="color:#5E1212;">{$bride_name} &amp; {$groom_name}</strong> directly.</p>
-      <p style="margin:6px 0 0;font-size:11px;color:#aaa;">With Love Photography · Anna Nagar, Chennai 600 040</p>
+      <p style="margin:6px 0 0;font-size:11px;color:#aaa;">CLICK CLICK photography · Anna Nagar, Chennai 600 040</p>
     </div>
   </div>
 </body></html>
 HTML;
 
-$enquiry_plain = "New Enquiry — With Love Photography\n"
+$enquiry_plain = "New Enquiry — CLICK CLICK photography\n"
     . str_repeat('─', 46) . "\n"
     . "Bride        : {$bride_name}\n"
     . "Groom        : {$groom_name}\n"
@@ -180,13 +180,13 @@ $confirm_html = <<<HTML
 <body style="margin:0;padding:20px;background:#f5ebe0;font-family:Arial,Helvetica,sans-serif;">
   <div style="max-width:560px;margin:0 auto;border-radius:10px;overflow:hidden;box-shadow:0 4px 24px rgba(0,0,0,.12);">
     <div style="background:linear-gradient(135deg,#8B1C1C 0%,#5E1212 100%);padding:36px 32px;text-align:center;">
-      <p style="margin:0 0 6px;font-size:11px;letter-spacing:.28em;text-transform:uppercase;color:rgba(255,245,230,.5);">With Love Photography · Chennai</p>
+      <p style="margin:0 0 6px;font-size:11px;letter-spacing:.28em;text-transform:uppercase;color:rgba(255,245,230,.5);">CLICK CLICK photography · Chennai</p>
       <h1 style="margin:0 0 8px;color:#fff;font-size:24px;font-weight:700;font-style:italic;">Thank You, {$bride_name} &amp; {$groom_name}!</h1>
       <p style="margin:0;font-size:13px;color:rgba(255,245,230,.7);">We've received your enquiry and are excited to hear your story.</p>
     </div>
     <div style="height:3px;background:linear-gradient(to right,#8B1C1C,#C9941A,#E8B430,#C9941A,#8B1C1C);"></div>
     <div style="background:#fff8f0;padding:32px;">
-      <p style="margin:0 0 20px;font-size:15px;color:#333;line-height:1.7;">Hi <strong style="color:#5E1212;">{$bride_name}</strong>, thank you for reaching out to <strong style="color:#5E1212;">With Love Photography</strong>. We've received your booking enquiry and our team will get back to you within <strong>24 hours</strong>.</p>
+      <p style="margin:0 0 20px;font-size:15px;color:#333;line-height:1.7;">Hi <strong style="color:#5E1212;">{$bride_name}</strong>, thank you for reaching out to <strong style="color:#5E1212;">CLICK CLICK photography</strong>. We've received your booking enquiry and our team will get back to you within <strong>24 hours</strong>.</p>
       <div style="background:#fff;border-radius:8px;border:1px solid rgba(201,148,26,.18);overflow:hidden;margin-bottom:24px;">
         <div style="padding:12px 20px;background:linear-gradient(to right,rgba(201,148,26,.08),transparent);border-bottom:1px solid rgba(201,148,26,.12);">
           <p style="margin:0;font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:#8A6464;font-weight:700;">Your Enquiry Summary</p>
@@ -201,30 +201,30 @@ $confirm_html = <<<HTML
       </div>
       <div style="background:rgba(201,148,26,.06);border:1px solid rgba(201,148,26,.2);border-radius:6px;padding:14px 18px;">
         <p style="margin:0;font-size:13px;color:#5E1212;line-height:1.6;"><strong>Need to reach us sooner?</strong><br>
-          Call: <a href="tel:+916380008516" style="color:#8B1C1C;text-decoration:none;">+91 63800 08516</a> &nbsp;|&nbsp;
-          <a href="https://wa.me/916380008516" style="color:#25D366;text-decoration:none;">WhatsApp Us</a>
+          Call: <a href="tel:+917010309601" style="color:#8B1C1C;text-decoration:none;">+91 70103 09601</a> &nbsp;|&nbsp;
+          <a href="https://wa.me/917010309601" style="color:#25D366;text-decoration:none;">WhatsApp Us</a>
         </p>
       </div>
     </div>
     <div style="background:#f0e0cc;padding:18px 32px;text-align:center;">
       <p style="margin:0;font-size:13px;color:#8A6464;font-style:italic;">"Every love story deserves its own chapter."</p>
-      <p style="margin:6px 0 0;font-size:11px;color:#aaa;">With Love Photography · Anna Nagar, Chennai 600 040</p>
+      <p style="margin:6px 0 0;font-size:11px;color:#aaa;">CLICK CLICK photography · Anna Nagar, Chennai 600 040</p>
     </div>
   </div>
 </body></html>
 HTML;
 
 $confirm_plain = "Hi {$bride_name} & {$groom_name},\n\n"
-    . "Thank you for reaching out to With Love Photography!\n"
+    . "Thank you for reaching out to CLICK CLICK photography!\n"
     . "We've received your booking enquiry and will get back to you within 24 hours.\n\n"
     . "Wedding Date : {$formatted_date}\n"
     . "Package      : {$package_label}\n\n"
-    . "For urgent queries, call +91 63800 08516 or WhatsApp us.\n\n"
-    . "— With Love Photography, Chennai";
+    . "For urgent queries, call +91 70103 09601 or WhatsApp us.\n\n"
+    . "— CLICK CLICK photography, Chennai";
 
 // ── Send emails ───────────────────────────────────────────────────────
 $enquiry_subject = "💍 New Enquiry — {$bride_name} & {$groom_name} · {$formatted_date}";
-$confirm_subject = "We've Received Your Enquiry — With Love Photography";
+$confirm_subject = "We've Received Your Enquiry — CLICK CLICK photography";
 
 $sent = smtp_gmail(
     $smtp_host, $smtp_user, $smtp_pass,

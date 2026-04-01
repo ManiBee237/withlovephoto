@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>About Us · With Love Photography Chennai</title>
-  <meta name="description" content="Meet the team behind With Love Photography — passionate storytellers rooted in Tamil Nadu wedding traditions for over 8 years." />
+  <title>About Us · CLICK CLICK photography Chennai</title>
+  <meta name="description" content="Meet the team behind CLICK CLICK photography — passionate storytellers rooted in Tamil Nadu wedding traditions for over 8 years." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet" />
@@ -340,7 +340,7 @@
     <div class="sp-loader-half sp-loader-l"></div>
     <div class="sp-loader-half sp-loader-r"></div>
     <div class="sp-loader-content">
-      <div class="sp-loader-brand">With Love Photography</div>
+      <div class="sp-loader-brand">CLICK CLICK photography</div>
       <div class="sp-loader-sub">Premium Wedding Photography · Chennai</div>
       <div class="sp-loader-progress"><div class="sp-loader-bar"></div></div>
     </div>
@@ -350,7 +350,7 @@
   <nav class="navbar scrolled" id="navbar">
     <div class="nav-inner">
       <a href="index.php" class="nav-logo">
-        <span class="logo-main">With Love Photography</span>
+        <span class="logo-main">CLICK CLICK photography</span>
         <span class="logo-sub">Chennai</span>
       </a>
       <div class="nav-links">
@@ -408,7 +408,7 @@
             <div class="divider-line" style="width:40px;"></div>
             <div class="divider-gem"></div>
           </div>
-          <p>With Love Photography was born from one simple truth: the moments before the wedding are just as beautiful as the wedding itself. The nervous excitement, the inside jokes only you two share, the way you look at each other when you think no one is watching — that's where the real magic lives.</p>
+          <p>CLICK CLICK photography was born from one simple truth: the moments before the wedding are just as beautiful as the wedding itself. The nervous excitement, the inside jokes only you two share, the way you look at each other when you think no one is watching — that's where the real magic lives.</p>
           <p>Founded in 2016 in Chennai, we've spent eight years crafting love stories for young couples across Tamil Nadu and beyond. Over 500 couples have trusted us with their most intimate moments — from dreamy pre-wedding shoots at golden hour to candid wedding day emotions that make you ugly-cry in the best possible way.</p>
           <p>We believe your pre-wedding shoot should feel like a date, not a photoshoot. We help you relax, be yourselves, and let the chemistry between you do the rest. The result? Frames so honest, so alive, you'll forget we were even there.</p>
 
@@ -524,7 +524,7 @@
     <div class="container">
       <div class="footer-grid">
         <div class="footer-brand">
-          <span class="logo-main" style="font-family:'Cormorant Garamond',serif; font-style:italic; color:var(--gold-light); font-size:1.6rem; display:block; margin-bottom:0.3rem;">With Love Photography</span>
+          <span class="logo-main" style="font-family:'Cormorant Garamond',serif; font-style:italic; color:var(--gold-light); font-size:1.6rem; display:block; margin-bottom:0.3rem;">CLICK CLICK photography</span>
           <span style="font-family:'Lato',sans-serif; font-size:0.68rem; letter-spacing:0.2em; text-transform:uppercase; color:rgba(255,245,230,0.5); display:block; margin-bottom:1rem;">Chennai</span>
           <p>Capturing the timeless beauty of Tamil Nadu weddings with artistry, warmth, and an unwavering eye for moments that matter most.</p>
         </div>
@@ -555,7 +555,7 @@
           <h4>Contact Us</h4>
           <div class="footer-contact-item">
             <span class="icon">📞</span>
-            <span>+91 63800 08516</span>
+            <span>+91 70103 09601</span>
           </div>
           <div class="footer-contact-item">
             <span class="icon">✉️</span>
@@ -572,7 +572,7 @@
         </div>
       </div>
       <div class="footer-bottom">
-        <p>© 2025 <span>With Love Photography</span>. All rights reserved. Crafted with <span>♥</span> in Chennai.</p>
+        <p>© 2025 <span>CLICK CLICK photography</span>. All rights reserved. Crafted with <span>♥</span> in Chennai.</p>
       </div>
     </div>
   </footer>

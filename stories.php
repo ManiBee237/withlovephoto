@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Client Stories · With Love Photography Chennai</title>
-  <meta name="description" content="Real testimonials from 500+ happy couples — With Love Photography, Chennai's trusted Tamil Nadu wedding photographers." />
+  <title>Client Stories · CLICK CLICK photography Chennai</title>
+  <meta name="description" content="Real testimonials from 500+ happy couples — CLICK CLICK photography, Chennai's trusted Tamil Nadu wedding photographers." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet" />
@@ -341,7 +341,7 @@
     <div class="sp-loader-half sp-loader-l"></div>
     <div class="sp-loader-half sp-loader-r"></div>
     <div class="sp-loader-content">
-      <div class="sp-loader-brand">With Love Photography</div>
+      <div class="sp-loader-brand">CLICK CLICK photography</div>
       <div class="sp-loader-sub">Premium Wedding Photography · Chennai</div>
       <div class="sp-loader-progress"><div class="sp-loader-bar"></div></div>
     </div>
@@ -351,7 +351,7 @@
   <nav class="navbar scrolled" id="navbar">
     <div class="nav-inner">
       <a href="index.php" class="nav-logo">
-        <span class="logo-main">With Love Photography</span>
+        <span class="logo-main">CLICK CLICK photography</span>
         <span class="logo-sub">Chennai</span>
       </a>
       <div class="nav-links">
@@ -443,7 +443,7 @@
         <div class="t-card stagger">
           <span class="t-quote-mark">"</span>
           <div class="t-stars"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>
-          <p>From the muhurtham fire to the moment my husband tied the thali, every single emotion was captured so naturally. I cried seeing my photographs — it felt like I was reliving that morning all over again. With Love Photography truly understands what a Tamil wedding means.</p>
+          <p>From the muhurtham fire to the moment my husband tied the thali, every single emotion was captured so naturally. I cried seeing my photographs — it felt like I was reliving that morning all over again. CLICK CLICK photography truly understands what a Tamil wedding means.</p>
           <div class="t-author">
             <div class="t-avatar av-a">P</div>
             <div class="t-info">
@@ -541,7 +541,7 @@
       </div>
       <div class="fqs-content fade-right">
         <span class="section-tag">Featured Story</span>
-        <p class="fqs-quote">"We almost didn't hire a professional photographer — we thought our phone videos would be enough. Then a friend showed us her With Love Photography album, and we changed our minds that same evening. I'm so grateful we did. Our photographs are the most precious thing we own."</p>
+        <p class="fqs-quote">"We almost didn't hire a professional photographer — we thought our phone videos would be enough. Then a friend showed us her CLICK CLICK photography album, and we changed our minds that same evening. I'm so grateful we did. Our photographs are the most precious thing we own."</p>
         <div class="fqs-author">
           <strong>Nithya &amp; Balaji Raghunathan</strong>
           <span>T. Nagar, Chennai · December 2024 · Legacy Package</span>
@@ -565,7 +565,7 @@
     <div class="container">
       <div class="footer-grid">
         <div class="footer-brand">
-          <span class="logo-main" style="font-family:'Cormorant Garamond',serif; font-style:italic; color:var(--gold-light); font-size:1.6rem; display:block; margin-bottom:0.3rem;">With Love Photography</span>
+          <span class="logo-main" style="font-family:'Cormorant Garamond',serif; font-style:italic; color:var(--gold-light); font-size:1.6rem; display:block; margin-bottom:0.3rem;">CLICK CLICK photography</span>
           <span style="font-family:'Lato',sans-serif; font-size:0.68rem; letter-spacing:0.2em; text-transform:uppercase; color:rgba(255,245,230,0.5); display:block; margin-bottom:1rem;">Chennai</span>
           <p>Capturing the timeless beauty of Tamil Nadu weddings with artistry, warmth, and an unwavering eye for moments that matter most.</p>
         </div>
@@ -596,7 +596,7 @@
           <h4>Contact Us</h4>
           <div class="footer-contact-item">
             <span class="icon">📞</span>
-            <span>+91 63800 08516</span>
+            <span>+91 70103 09601</span>
           </div>
           <div class="footer-contact-item">
             <span class="icon">✉️</span>
@@ -613,7 +613,7 @@
         </div>
       </div>
       <div class="footer-bottom">
-        <p>© 2025 <span>With Love Photography</span>. All rights reserved. Crafted with <span>♥</span> in Chennai.</p>
+        <p>© 2025 <span>CLICK CLICK photography</span>. All rights reserved. Crafted with <span>♥</span> in Chennai.</p>
       </div>
     </div>
   </footer>

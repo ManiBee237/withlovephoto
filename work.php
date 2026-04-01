@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Our Work · With Love Photography Chennai</title>
+  <title>Our Work · CLICK CLICK photography Chennai</title>
   <meta name="description" content="Explore our full wedding photography portfolio — Tamil Nadu weddings captured with artistry and heart." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -400,7 +400,7 @@
     <div class="sp-loader-half sp-loader-l"></div>
     <div class="sp-loader-half sp-loader-r"></div>
     <div class="sp-loader-content">
-      <div class="sp-loader-brand">With Love Photography</div>
+      <div class="sp-loader-brand">CLICK CLICK photography</div>
       <div class="sp-loader-sub">Premium Wedding Photography · Chennai</div>
       <div class="sp-loader-progress"><div class="sp-loader-bar"></div></div>
     </div>
@@ -410,7 +410,7 @@
   <nav class="navbar scrolled" id="navbar">
     <div class="nav-inner">
       <a href="index.php" class="nav-logo">
-        <span class="logo-main">With Love Photography</span>
+        <span class="logo-main">CLICK CLICK photography</span>
         <span class="logo-sub">Chennai</span>
       </a>
       <div class="nav-links">
@@ -694,7 +694,7 @@
     <div class="container">
       <div class="footer-grid">
         <div class="footer-brand">
-          <span class="logo-main" style="font-family:'Cormorant Garamond',serif;font-style:italic;color:var(--gold-light,#E8B430);font-size:1.6rem;display:block;margin-bottom:.3rem;">With Love Photography</span>
+          <span class="logo-main" style="font-family:'Cormorant Garamond',serif;font-style:italic;color:var(--gold-light,#E8B430);font-size:1.6rem;display:block;margin-bottom:.3rem;">CLICK CLICK photography</span>
           <span style="font-size:.62rem;letter-spacing:.25em;text-transform:uppercase;color:rgba(255,245,230,.4);display:block;margin-bottom:1rem;">Chennai</span>
           <p>Capturing the timeless beauty of Tamil Nadu weddings with artistry, warmth, and an unwavering eye for the moments that matter most.</p>
         </div>
@@ -722,7 +722,7 @@
         <div class="footer-col">
           <h4>Contact</h4>
           <ul>
-            <li><a href="tel:+916380008516">+91 63800 08516</a></li>
+            <li><a href="tel:+917010309601">+91 70103 09601</a></li>
             <li><a href="mailto:withlovephotography@gmail.com">withlovephotography@gmail.com</a></li>
             <li><a href="contact.php">Chennai · Pan India</a></li>
             <li><a href="contact.php" style="color:var(--gold-light,#E8B430);">Book Your Date →</a></li>
@@ -730,7 +730,7 @@
         </div>
       </div>
       <div class="footer-bottom">
-        <p>© 2025 <span>With Love Photography</span>. All rights reserved. Crafted with <span>♥</span> in Chennai.</p>
+        <p>© 2025 <span>CLICK CLICK photography</span>. All rights reserved. Crafted with <span>♥</span> in Chennai.</p>
       </div>
     </div>
   </footer>
